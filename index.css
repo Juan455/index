@@ -7,9 +7,9 @@
 .menuCSS3 a {
     display: block;
     padding: 2em;
-    background-color: #F9B53C;
+    background-color: black;
     text-decoration: none;
-    color: #191C26;
+    color: white;
 }
 .menuCSS3 a:hover {
     background-color: #CC673B;
@@ -21,6 +21,11 @@
     display: block;
 }
 
-body {
-    background-color: #000000;
+body {        
+        background-image: url('https://wallpaperstock.net/wallpapers/thumbs1/35573hd.jpg');       
+        background-position: center;       
+        background-repeat: no-repeat;      
+        background-attachment: fixed;               
+        background-size: 58%;
+        background-color: black;
   }
